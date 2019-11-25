@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/pravallika/learnings/ros/devel -DCMAKE_INSTALL_PREFIX=/home/pravallika/learnings/ros/install -G Unix Makefiles
