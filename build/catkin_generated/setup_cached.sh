@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/pravallika/learnings/ros/devel:$CMAKE_PREFIX_PATH"
 export PWD="/home/pravallika/learnings/ros/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/pravallika/learnings/ros/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/pravallika/learnings/ros/src:$ROS_PACKAGE_PATH"
